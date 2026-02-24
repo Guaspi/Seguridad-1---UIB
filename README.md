@@ -1,4 +1,4 @@
-**Práctica – Ejercicio 3: Encaminador IP (Filtrado de paquetes mediante ACLs)**
+**Práctica 3- Ejercicio: Encaminador IP (Filtrado de paquetes mediante ACLs)**
 
 En esta práctica se configura un encaminador IP aplicando listas de control de acceso (ACLs) para filtrar el tráfico de red. 
 Se definen reglas que permiten o deniegan paquetes en función de criterios como dirección IP, protocolo o puerto, analizando 
